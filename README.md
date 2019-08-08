@@ -97,6 +97,7 @@ Some addons provide extended behavior to TST's sidebar panel:
 * [Vertigo Tabs](https://addons.mozilla.org/firefox/addon/vertigo-tabs/)
 * [Sidebar+](https://addons.mozilla.org/firefox/addon/sidebar_plus/)
 * [Tabs2List](https://addons.mozilla.org/firefox/addon/tabs-2-list/)
+* [Simple Tab Groups (works with sidebar)](https://addons.mozilla.org/en-US/firefox/addon/simple-tab-groups/)
 
 ### Listing tabs with a search field
 
